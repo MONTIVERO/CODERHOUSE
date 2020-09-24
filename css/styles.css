@@ -2461,7 +2461,7 @@ fieldset:disabled a.btn {
 .btn-primary {
   color: #fff;
   background-color: #ababc736;
-  border-color: #64a19d;
+  border-color: #db0080e0;
 }
 .btn-primary:hover {
   color: #fff;
@@ -10109,7 +10109,7 @@ body {
 
 #mainNav {
   min-height: 3.5rem;
-  background-color: #143642;
+  background-color: #ffae00;
 }
 #mainNav .navbar-toggler {
   font-size: 80%;
